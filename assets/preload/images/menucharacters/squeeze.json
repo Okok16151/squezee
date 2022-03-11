@@ -1,0 +1,10 @@
+{
+	"idle_anim": "squeeze",
+	"image": "squeeze",
+	"position": [
+		63,
+		-142
+	],
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}
