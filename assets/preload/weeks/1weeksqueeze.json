@@ -1,0 +1,40 @@
+{
+	"storyName": "unknown creature: red guy",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "squeezecity",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"squeeze",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"PlugWalk",
+			"squeeze",
+			[
+				175,
+				0,
+				13
+			]
+		],
+		[
+			"Squmming",
+			"squeeze",
+			[
+				175,
+				0,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
